@@ -15,16 +15,27 @@ ________________________________________
 o	Data Definition Language (DDL): CREATE, ALTER, DROP, TRUNCATE 
 
 o	Data Manipulation Language (DML): INSERT, UPDATE, DELETE, SELECT 
+
 o	Filtering: WHERE, AND, OR, BETWEEN, IN, LIKE, NOT 
+
 o	Sorting: ORDER BY, LIMIT 
+
 o	Aggregation: SUM, AVG, MAX, MIN, COUNT, GROUP BY, HAVING, ROLLUP 
+
 o	String & Date Functions: CONCAT, SUBSTRING, TRIM, UPPER, LOWER, TO_CHAR, EXTRACT 
+
 o	Joins: INNER, LEFT, RIGHT, FULL, CROSS 
+
 o	Self Join 
+
 o	Set Operations: UNION, UNION ALL, EXCEPT, INTERSECT 
+
 o	Subqueries & Nested Queries 
+
 o	Window Functions: ROW_NUMBER, RANK, DENSE_RANK, LEAD, LAG, FIRST_VALUE, LAST_VALUE 
+
 o	CASE Statements 
+
 o	Stored Procedures & Functions 
 ________________________________________
 🗂 Project Structure
@@ -57,7 +68,8 @@ ________________________________________
 •	LEAD, LAG, FIRST_VALUE, LAST_VALUE 
 9. Procedures & Functions
 •	Procedure to update salary 
-•	Calculator function performing addition, subtraction, multiplication, division 
+•	Calculator function performing addition, subtraction, multiplication, division
+
 ________________________________________
 📊 Key Business Insights & Learning Outcomes
 1.	Employee Analysis: Querying employees by age, department, salary range, or joining date. 
@@ -65,5 +77,10 @@ ________________________________________
 3.	Data Cleaning & Formatting: Using string functions to clean and standardize data. 
 4.	Advanced Analytics: Leveraging window functions and subqueries for ranking, comparisons, and trend analysis. 
 5.	Automation: Using procedures and functions to simplify repetitive tasks like salary updates or calculations. 
-6.	Real-world SQL Skills: Learn to write queries that resemble real business reporting requirements. 
+6.	Real-world SQL Skills: Learn to write queries that resemble real business reporting requirements.
 
+🌟 Project Highlights
+All-in-one SQL Practice – from beginner to advanced concepts
+Hands-on Learning – every query is practical and tested
+Reusable Procedures & Functions – simulate real-life automation
+Advanced Features – window functions, ROLLUP, set operations, CASE statements

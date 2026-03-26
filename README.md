@@ -80,7 +80,18 @@ ________________________________________
 6.	Real-world SQL Skills: Learn to write queries that resemble real business reporting requirements.
 
 🌟 Project Highlights
+
 All-in-one SQL Practice – from beginner to advanced concepts
+
 Hands-on Learning – every query is practical and tested
+
 Reusable Procedures & Functions – simulate real-life automation
+
 Advanced Features – window functions, ROLLUP, set operations, CASE statements
+
+🔗 Connect with me on LinkedIn 👉https://www.linkedin.com/in/rohil-sen-813702392/
+
+👨‍💻 Author Rohil Sen
+
+
+SQL #LearnSQL #SQLQueries #SQLPractice #SQLTips #SQLDeveloper #SQLServer #PostgreSQL #MySQL #Database #DatabaseManagement #RDBMS
